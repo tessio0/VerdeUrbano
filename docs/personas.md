@@ -32,15 +32,36 @@ dia.
 **Comportamentos:**
 
 - Usa o celular em pequenos intervalos do dia.
-- É visualmente orientada: decide com base em fotos antes de ler descrições
-  longas.
-- Costuma sair sozinha ou com amigos em horários flexíveis, muitas vezes de
-  forma espontânea.
+- É visualmente orientada: decide com base em fotos antes de ler descrições longas.
+- Costuma sair sozinha ou com amigos em horários flexíveis, muitas vezes de forma espontânea.
 
 **Relação com o aplicativo:**
-Usuária frequente do feed principal e do mapa. É o perfil que mais se beneficia
-da proposta exploratória do app (fotos convidativas, filtro por atividades) e
-que representa bem a experiência "leve" que o produto busca oferecer.
+Usuária frequente do feed principal e do mapa. É o perfil que mais se beneficia da proposta exploratória do app (fotos convidativas, filtro por atividades) e que representa bem a experiência "leve" que o produto busca oferecer.
+
+## Persona 2: O Voluntário Comunitário
+
+## ​Nome fictício: Lucas Silveira, 24 anos
+
+**​Perfil/contexto:**
+
+Estudante universitário e praticante de corrida de rua. É engajado em causas de sustentabilidade e busca integrar hábitos saudáveis à sua rotina urbana.
+
+**​Objetivos:**
+
+Encontrar parques adequados para corridas matinais e participar ativamente de hortas comunitárias ou mutirões de plantio na cidade.
+
+**​Necessidades:**
+
+Filtros específicos de busca (como presença de pista de corrida ou hortas ativas), agenda de eventos comunitários e detalhes sobre acessibilidade e transporte até o local.
+
+​**Dores:**
+
+Dificuldade em saber onde ficam as hortas comunitárias da cidade e como se voluntariar; falta de mapeamento centralizado de atividades ao ar livre.
+
+**​Comportamentos:** 
+
+Bastante ativo em redes sociais, costuma organizar rotas de treino via smartphone e gosta de se conectar com grupos de interesse local.
+​Relação com o aplicativo: Acessará o app regularmente para consultar o mapa de parques com estrutura esportiva e acompanhar agendas de feiras orgânicas e eventos em áreas verdes.
 
 ## Persona prioritária: Marina Alves
 
